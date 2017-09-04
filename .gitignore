@@ -27,3 +27,6 @@ src/stamp-h1
 
 # Tox
 .tox
+
+# PyCharm
+.idea/
